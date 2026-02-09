@@ -1,7 +1,16 @@
-body
+body{
+    background:#FFFAFA;
+    color:#6A5ACD;
+    width:100%;
+    font-family:Georgia;
+    margin:0 auto;
+}
 
-{
-
-color background:white;
-
+.header{
+    widht:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#6A5ACD;
+    color:#FFFAFA;
 }
